@@ -100,23 +100,7 @@ Scatter plot illustrating the trade-off between shipping cost and delivery speed
 
 ## 📁 Repository Structure
 
-logistics-on-time-delivery-analytics/
-│
-├── data/
-│ └── logistics_shipments_data.csv
-│
-├── sql/
-│ └── logistics_kpi_queries.sql
-│
-├── powerbi/
-│ └── On_Time_Delivery_Inventory_Executive_Dashboard.pbix
-│
-├── images/
-│ └── dashboard.png
-│
-└── README.md
-![Barchart_Linechart_Table_Scatterplot](https://github.com/user-attachments/assets/65b26ffa-8dc8-458d-9e78-c6efc8e0930e)
-![Full_Dashboard_On_Time_Delivery_Inventory](https://github.com/user-attachments/assets/a3c69654-e270-4e69-b92c-6cbfb2400838)
+![Logistics_Repository_Structure](https://github.com/user-attachments/assets/233046b4-f447-49bc-9adf-d04c80d3d1b0)
 
 ---
 
@@ -138,4 +122,3 @@ Specializing in **Healthcare and Logistics Analytics**
 ## 📬 Feedback
 Feedback and suggestions are welcome.  
 This project is part of a professional analytics portfolio.
-![Full_Dashboard_On_Time_Delivery_Inventory](https://github.com/user-attachments/assets/d1026505-3742-4d65-8b75-347a9c13b543)
